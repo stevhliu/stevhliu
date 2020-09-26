@@ -9,7 +9,8 @@ I am an ex-molecular/cell biologist learning to become a data analyst/deep learn
 When I’m not doing nerdy data things, I like doing nerdy video game things. Currently I am playing Fallout 76, which is turning out to be a great stay-at-home activity. When I’m not being a nerd at all, I like to cook and bake, watch the Golden State Warriors play, taste cool new coffees, visit National Parks and pet dogs 🐶.
 
 ### 📓 Projects
-🔮 [astroGPT](https://huggingface.co/stevhliu/astroGPT) - a GPT-2 model fine-tuned with fastai to generate a daily horoscope, head over to the 🤗 Hugging Face Model Hub to give it a try!
+* 🔮 [astroGPT](https://huggingface.co/stevhliu/astroGPT): a GPT-2 model fine-tuned with fastai to generate a daily horoscope, head over to the 🤗 Hugging Face Model Hub to give it a try!
+* 📊 [COVID19](https://stevhliu.github.io/satsuma/altair/data%20vis/covid19/2020/04/05/covid19-in-ca.html) dashboard: an interactive dashboard updated daily to keep track of COVID stats like total testing volume, daily testing volume, daily changes in death, positive cases added each day and hospitalizations in California. Built with altair ❤️.
 
 ### Holla at me:
 * read the latest articles on my [blog](https://stevhliu.github.io/satsuma/) 
