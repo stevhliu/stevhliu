@@ -4,18 +4,18 @@
   <img src='https://raw.githubusercontent.com/stevhliu/stevhliu/master/pixel-night.jpeg'>
 </p>
 
-I am an ex-molecular/cell biologist learning to become a data analyst/deep learning practitioner. I love making beautiful data visualizations that tell data-rich and meaningful stories about complex topics like climate change, technology and social justice to name just a few. Some of my favorite tools here are matplotlib and altair, and I hope to get into D3 next. Another area I'm interested in is NLP because I just can’t get over how matrix multiplication can do awesome things like generate text. 
+I am a former molecular/cell biologist working in fintech to help companies build and launch financial products. I like to make charts and graphs from data-rich sources that tell meaningful stories about complex topics like climate change, the economy and social justice to name just a few. I also enjoy studying NLP and contributing new language models or datasets to Hugging Face.
 
-When I’m not doing nerdy data things, I like doing nerdy video game things. Currently I am playing Fallout 76, which is turning out to be a great stay-at-home activity. When I’m not being a nerd at all, I like to cook and bake, watch the Golden State Warriors play, taste cool new coffees, visit National Parks and pet dogs 🐶.
+When I’m not doing nerdy data things, I like to travel to see and learn more about the world, it’s people and culture. I am especially drawn to outdoor places like National Parks and my goal is to visit all of them someday. I like to cook and bake because I enjoy making things for other people, tasting cool new coffees and practicing my homebrewing, cheering on the Golden State Warriors, playing board games, being a plant parent, petting dogs and searching for the biggest & baddest burritos.
 
 ### 📓 Projects
 * 🔮 [astroGPT](https://huggingface.co/stevhliu/astroGPT): a GPT-2 model fine-tuned with fastai to generate a daily horoscope, head over to the 🤗 Hugging Face Model Hub to give it a try!
-* 📊 [COVID19](https://stevhliu.github.io/satsuma/altair/data%20vis/covid19/2020/04/05/covid19-in-ca.html) dashboard: an interactive dashboard updated daily to keep track of COVID stats like total testing volume, daily testing volume, daily changes in death, positive cases added each day and hospitalizations in California. Built with altair ❤️.
+* 📊 [COVID-19](https://stevhliu.github.io/satsuma/altair/data%20vis/covid19/2020/04/05/covid19-in-ca.html) dashboard: an interactive dashboard updated daily to keep track of COVID stats like total testing volume, daily testing volume, daily changes in death, positive cases added each day and hospitalizations in California
 
-### Holla at me:
+### Keeping up with me:
 * read the latest articles on my [blog](https://stevhliu.github.io/satsuma/) 
-* @ me on [Twitter](https://twitter.com/stevhliu) 
-* let's connect on [LinkedIn](https://www.linkedin.com/in/stevhliu)
+* say hi on [Twitter](https://twitter.com/stevhliu) 
+* say hi on [LinkedIn](https://www.linkedin.com/in/stevhliu)
 
 <!--
 **stevhliu/stevhliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
