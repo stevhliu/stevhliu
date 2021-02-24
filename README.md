@@ -10,7 +10,7 @@ When I’m not doing nerdy data things, I like to travel to see and learn more a
 
 ### 📓 Projects
 * 🔮 [astroGPT](https://huggingface.co/stevhliu/astroGPT): a GPT-2 model fine-tuned with fastai to generate a daily horoscope, head over to the 🤗 Hugging Face Model Hub to give it a try!
-* 📊 [COVID-19](https://stevhliu.github.io/satsuma/altair/data%20vis/covid19/2020/04/05/covid19-in-ca.html) dashboard: an interactive dashboard updated daily to keep track of COVID stats like total testing volume, daily testing volume, daily changes in death, positive cases added each day and hospitalizations in California
+* 📊 [COVID-19](https://stevhliu.github.io/ingolmo/altair/data%20vis/covid19/2020/04/05/covid19-in-ca.html) dashboard: an interactive dashboard updated daily to keep track of COVID stats like total testing volume, daily testing volume, daily changes in death, positive cases added each day and hospitalizations in California
 
 ### Keeping up with me:
 * read the latest articles on my [blog](https://stevhliu.github.io/satsuma/) 
