@@ -13,7 +13,7 @@ When I’m not doing nerdy data things, I like to travel to see and learn more a
 * 📊 [COVID-19](https://stevhliu.github.io/ingolmo/altair/data%20vis/covid19/2020/04/05/covid19-in-ca.html) dashboard: an interactive dashboard updated daily to keep track of COVID stats like total testing volume, daily testing volume, daily changes in death, positive cases added each day and hospitalizations in California
 
 ### Keeping up with me:
-* read the latest articles on my [blog](https://stevhliu.github.io/satsuma/) 
+* read the latest articles on my [blog](https://stevhliu.github.io/ingolmo/) 
 * say hi on [Twitter](https://twitter.com/stevhliu) 
 * say hi on [LinkedIn](https://www.linkedin.com/in/stevhliu)
 
