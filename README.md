@@ -1,10 +1,8 @@
-<p align='center'>
-  <img src='https://raw.githubusercontent.com/stevhliu/stevhliu/master/pixel-night.jpeg'>
+<p align="center">
+  <img src="https://huggingface.co/front/assets/homepage/hugs.svg">
 </p>
 
-## Hi, I'm Steven 👋
-
-I am a technical writer at 🤗 Hugging Face. I am working on documentation to make sure it is clear, organized, and easy for users to understand.
+writing stuff at 🤗 Hugging Face
 
 <!--
 **stevhliu/stevhliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
